@@ -188,5 +188,5 @@ Wynik: 8 zaliczonych, 0 niezaliczonych.
 
 ## Autor
 
-- Imię i nazwisko: *(uzupełnij)*
+- Imię i nazwisko: Franek Osinczuk
 - Data wykonania zadania: 25.11.2026

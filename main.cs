@@ -1,5 +1,6 @@
 /*
  * System rezerwacji biletów - program konsolowy.
+ * Autor: Franek Osinczuk
  *
  * Plik zawiera wszystkie klasy programu, dzięki czemu można go wkleić
  * bezpośrednio do OnlineGDB (main.cs) albo skompilować lokalnie.
